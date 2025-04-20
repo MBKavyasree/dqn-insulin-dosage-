@@ -1,0 +1,7 @@
+streamlit==1.28.2
+gymnasium>=0.29
+numpy==1.24.4
+torch>=2.2.0
+torchaudio>=2.2.0
+torchvision>=0.17.0
+matplotlib
